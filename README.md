@@ -13,7 +13,7 @@
 - **AI Integration**: `openai`
 - **ML & Deep Learning**: `scikit-learn`, `pytorch`, `keras`, `tensorflow` 
 - **Data Viz & BI**: Power BI, Excel
-- **Dev Tools**: Git, GitHub, Jupyter Notebooks, VS Code
+- **Dev Tools**: Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
