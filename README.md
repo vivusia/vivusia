@@ -28,7 +28,7 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/viviane-lorenc
 ---
 
 ### 🎟️ Fun Fact
-What began as a script to secure concert tickets became the starting point of my journey into programming and data 🎟️
+What began as a script to secure concert tickets became the starting point of my journey into programming and data.
 <!--
 **vivusia/vivusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
