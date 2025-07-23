@@ -7,9 +7,9 @@
 ---
 
 ### 🧠 Languages & Tools
-- **Python** `pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, datetime`
-- **R**: `ggplot2, dplyr, tidyverse, caret`
-- **Web Scraping**: `BeautifulSoup, requests, selenium`
+- **Python** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `datetime`
+- **R**: `ggplot2`, `dplyr`, `tidyverse`, `caret`
+- **Web Scraping**: `BeautifulSoup`, `requests`, `selenium`
 - **AI Integration**: `openai`
 - **ML & Deep Learning**: `scikit-learn`, `pytorch`, `keras`, `tensorflow` 
 - **Data Viz & BI**: Power BI, Excel
