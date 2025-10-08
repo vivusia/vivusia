@@ -18,8 +18,11 @@
 ---
 
 ### 📈 Recent Projects
-- **Pricing Analytics Project** – Predicting optimal prices using regression models & elasticity analysis   
-
+- **Pricing Analysis** – Predicting optimal prices using regression models & elasticity analysis   
+- **NPS Dashboard** – Built a Power BI dashboard with integrated python-based NLP and clustering to extract insights from open customer feedback
+- **Bank Customer Churn Prediction** – Predicting customer churn using classification models and explained key drivers with SHAP
+- **Credit Risk Prediction** – Developing a credit scoring model to assess loan default risk based on historical borrower data
+- **GDP Forecasting - Germany** – Forecasted Germany's GDP until 2030 using time series modeling (Prophet/ARIMA)
 ---
 
 ### 📫 Let's connect
