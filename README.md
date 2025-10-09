@@ -19,8 +19,9 @@
 
 ### 📈 Recent Projects
 - **Pricing Analysis** – Predicted optimal prices using regression models & elasticity analysis   
-- **NPS Dashboard** – Developed a Power BI dashboard with a Python-based GPT-4 NLP pipeline to classify and visualize customer feedback insights
-  
+- **NPS Dashboard** – Developed a Power BI dashboard with a Python-based GPT-4 NLP pipeline to classify and visualize customer feedback insights 
+
+### 📈 Upcoming Projects
 - **Bank Customer Churn Prediction** – Predicted customer churn using classification models and interpreted key drivers with SHAP
 - **Credit Risk Prediction** – Developed a credit scoring model to assess loan default risk based on historical borrower data
 - **GDP Forecasting - Germany** – Forecasted Germany's GDP until 2030 using time series modeling (Prophet/ARIMA)
