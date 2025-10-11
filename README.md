@@ -11,7 +11,8 @@
 - **R**: `ggplot2`, `dplyr`, `tidyverse`, `caret`
 - **Web Scraping**: `BeautifulSoup`, `requests`, `selenium`
 - **AI Integration**: `openai`
-- **ML & Deep Learning**: `scikit-learn`, `pytorch`, `keras`, `tensorflow` 
+- **ML & Deep Learning**: `scikit-learn`, `pytorch`, `keras`, `tensorflow`
+- **SQL:** MySQL, SQLite, BigQuery 
 - **Data Viz & BI**: Power BI, Excel
 - **Dev Tools**: Git, GitHub, Jupyter Notebook, VS Code
 
