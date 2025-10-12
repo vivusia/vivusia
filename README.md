@@ -10,7 +10,7 @@
 - **Python** `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `datetime`
 - **R**: `ggplot2`, `dplyr`, `tidyverse`, `caret`
 - **Web Scraping**: `BeautifulSoup`, `requests`, `selenium`
-- **AI Integration**: `openai`
+- **AI Integration**: `openai`, `transformers`
 - **ML & Deep Learning**: `scikit-learn`, `pytorch`, `keras`, `tensorflow`
 - **SQL:** MySQL, SQLite, BigQuery 
 - **Data Viz & BI**: Power BI, Excel
