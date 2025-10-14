@@ -19,7 +19,7 @@
 ---
 
 ### 📈 Recent Projects
-- **Pricing Analysis** – Predicted optimal prices using regression models & elasticity analysis   
+- **[Pricing Analysis](https://github.com/vivusia/pricing-analysis-project/tree/main)** – Predicted optimal prices using regression models & elasticity analysis   
 - **[NPS Dashboard](https://github.com/vivusia/nps-dashboard/tree/main)** – Developed a Power BI dashboard with a Python-based GPT-4 NLP pipeline to classify and visualize customer feedback insights 
 
 ### 📈 Upcoming Projects
